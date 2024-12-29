@@ -21,15 +21,15 @@ I'm a Full Stack Developer with expertise in WordPress customization, Laravel de
 ### ⚙️ **Projects**  
 
 🔨 **Laravel Projects**  
-- **[Attendance Management System](#)**: Automated employee attendance tracking and reporting.  
-- **[Tasks and Projects Management System](#)**: Comprehensive dashboard for project tracking and collaboration.  
-- **[E-commerce Dashboard](#)**: Robust inventory and order management system.  
-- **[Blog Website](#)**: Interactive blogging platform with a commenting system.
+- **Attendance Management System**: Automated employee attendance tracking and reporting.  
+- **Tasks and Projects Management System**: Comprehensive dashboard for project tracking and collaboration.  
+- **E-commerce Dashboard**: Robust inventory and order management system.  
+- **Blog Website**: Interactive blogging platform with a commenting system.
 
 🔨 **WordPress Projects**  
-- **[Custom Shortcodes for Complex Layouts](#)**: Developed custom shortcodes with conditional parameters.  
-- **[AJAX Pagination and Isotope Filters](#)**: Enhanced user interaction with advanced filters and pagination.  
-- **[WooCommerce E-commerce Website](#)**: Developed WooCommerce-based e-commerce websites with advanced functionality.
+- **Custom Shortcodes for Complex Layouts**: Developed custom shortcodes with conditional parameters.  
+- **AJAX Pagination and Isotope Filters**: Enhanced user interaction with advanced filters and pagination.  
+- **WooCommerce E-commerce Website**: Developed WooCommerce-based e-commerce websites with advanced functionality.
 
 ---
 
@@ -55,6 +55,6 @@ I'm a Full Stack Developer with expertise in WordPress customization, Laravel de
 
 ### 📫 **Contact Me**  
 - LinkedIn: https://www.linkedin.com/in/bhawna-chauhan-1b38402a3/
-- Email: (mailto:cbhawna190@gmail.com )
+- Email: cbhawna190@gmail.com 
 
 ---
