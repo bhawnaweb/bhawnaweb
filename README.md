@@ -5,14 +5,14 @@ I'm a Full Stack Developer with expertise in WordPress customization, Laravel de
 ---
 
 ### 🔨 **Professional Experience**  
-📝 **Laravel Developer at Quickcoderz, Ludhiana (January 2023 - Present)**  
+📝 **Laravel Developer at Quickcoderz, Ludhiana (Nov 2022 - Present)**  
 - Customized and developed WordPress themes and plugins.  
 - Built dynamic Laravel applications for attendance management, e-commerce dashboards, and task management.  
 - Integrated JavaScript libraries for advanced UI/UX features.  
 - Ensured performance optimization and cross-browser compatibility.  
 - Collaborated with cross-functional teams for timely software delivery.  
 
-📝 **WordPress Developer at Quickcoderz, Ludhiana (November 2022 - December 2023)**  
+📝 **WordPress Developer at Quickcoderz, Ludhiana**  
 - Developed custom WordPress themes and plugins.  
 - Managed multisite creation and integration of third-party plugins.  
 
